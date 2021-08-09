@@ -1,6 +1,6 @@
 # geo django example
 
-setting.py modify **
+#setting.py modify **
 
 python -m venv venv
 
@@ -10,4 +10,5 @@ pip install -r requirements.txt
 
 python manage.py runserver 0.0.0.0:8000
 
+##Example Site
 https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/
